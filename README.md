@@ -8,3 +8,5 @@
 - 📫 Reah me > ejaz.shaikh151992@gmail.com
 
 
+LinkedIn > https://www.linkedin.com/in/eshaikhahmed/
+Twitter > https://twitter.com/eshaikhahmed
