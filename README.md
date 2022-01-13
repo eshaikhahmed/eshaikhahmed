@@ -17,7 +17,7 @@ Add todo list
 
 Screenshot
 <p float="left">
-<img src="https://github.com/eshaikhahmed/TodoReminderApp/screenshots/Capture1.JPG?raw=true"> 
+<img src="https://github.com/eshaikhahmed/TodoReminderApp/blob/main/screenshots/Capture1.JPG?raw=true"> 
 <img src="https://github.com/eshaikhahmed/TodoReminderApp/screenshots/Capture2.JPG?raw=true"> 
 <img src="https://github.com/eshaikhahmed/TodoReminderApp/screenshots/Capture3.JPG?raw=true"> 
 <img src="https://github.com/eshaikhahmed/TodoReminderApp/screenshots/Capture4.JPG?raw=true"> 
