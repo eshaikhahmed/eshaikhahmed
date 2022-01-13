@@ -4,7 +4,8 @@
 
 I'm really good at website and android app development. 
 
-Few of projects that I'm current working on
+Few of projects that I'm current working on.
+
 TodoReminderApp
 - It is an todo app, I'm creating this solely for purpose of myself in order to keep things reminded everytime.
 Features
@@ -16,10 +17,10 @@ Add todo list
 
 Screenshot
 <p float="left">
-<img src="https://github.com/eshaikhahmed/eshaikhahmed/TodoReminderApp/screenshots/Capture1.JPG?raw=true"> 
-<img src="https://github.com/eshaikhahmed/eshaikhahmed/TodoReminderApp/screenshots/Capture2.JPG?raw=true"> 
-<img src="https://github.com/eshaikhahmed/eshaikhahmed/TodoReminderApp/screenshots/Capture3.JPG?raw=true"> 
-<img src="https://github.com/eshaikhahmed/eshaikhahmed/TodoReminderApp/screenshots/Capture4.JPG?raw=true"> 
+<img src="https://github.com/eshaikhahmed/TodoReminderApp/screenshots/Capture1.JPG?raw=true"> 
+<img src="https://github.com/eshaikhahmed/TodoReminderApp/screenshots/Capture2.JPG?raw=true"> 
+<img src="https://github.com/eshaikhahmed/TodoReminderApp/screenshots/Capture3.JPG?raw=true"> 
+<img src="https://github.com/eshaikhahmed/TodoReminderApp/screenshots/Capture4.JPG?raw=true"> 
 </p>
 
 
