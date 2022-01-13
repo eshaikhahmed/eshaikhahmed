@@ -20,7 +20,7 @@ Screenshot
 <img src="https://github.com/eshaikhahmed/TodoReminderApp/blob/main/screenshots/Capture1.JPG?raw=true"> 
 <img src="https://github.com/eshaikhahmed/TodoReminderApp/blob/main/screenshots/Capture2.JPG?raw=true"> 
 <img src="https://github.com/eshaikhahmed/TodoReminderApp/blob/main/screenshots/Capture3.JPG?raw=true"> 
-<img src="https://github.com/eshaikhahmed/TodoReminderApp/blob/main/screenshots/Capture4.JPG.JPG?raw=true"> 
+<img src="https://github.com/eshaikhahmed/TodoReminderApp/blob/main/screenshots/Capture4.JPG?raw=true"> 
 </p>
 
 
